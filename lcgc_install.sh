@@ -17,7 +17,7 @@ else
   		echo 'Error: wget is not installed.' >&2	
   		exit 1
 	else
-		wget 
+		wget "https://raw.githubusercontent.com/simonszoft/LCGC/master/README.md" -O - -q 
 	fi
 	
 fi
