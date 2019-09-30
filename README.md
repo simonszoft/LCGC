@@ -1,6 +1,14 @@
 # LCGC
 ## Simonszoft - Linux Console Games collection 
 
+#### Kollekció telepítése (Debian/Ubuntu)
+
+`sudo apt-get install bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband`
+
+#### Kollekció telepítő script letöltése (Debian/Ubuntu)
+
+[https://raw.githubusercontent.com/simonszoft/LCGC/master/lcgc_install.sh]
+
 ###### A válogatás az alábbi játékokat tartalmazza:
 
 __Bastet__
