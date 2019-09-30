@@ -1,6 +1,7 @@
 # LCGC
 ## Simonszoft - Linux Console Games collection 
-###### The smallest heading
+
+###### A válogatás az alábbi játékokat tartalmazza:
 
 __Bastet__
 Egyszerű tetrisz, amennyire fapad annyira jó is.
@@ -49,7 +50,7 @@ Egszerű és nagyszerű annak aki szereti.
 `apt-get install ninvaders`
 
 __Nsnake__
-Iegn ez az, egy Snake klón, a poén, hogy a dollárjelet kell megenni egy mozgó @ (kukaccal).
+Igen ez az, egy Snake klón, a poén, hogy a dollárjelet kell megenni egy mozgó @ (kukaccal).
 
 `apt-get install nsnake`
 
