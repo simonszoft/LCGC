@@ -4,7 +4,7 @@
 ### Kollekció telepítése (Debian/Ubuntu)
 Megjegyzés: Érdemes kiadni előtte az `apt-get update` parancsot is a csomaglisták frissítéséhez!
 
-`sudo apt-get install bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband`
+`sudo apt-get install asciijump bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband`
 
 ### Kollekció telepítő script letöltése (Debian/Ubuntu)
 
@@ -15,6 +15,11 @@ Közvetlen link: https://raw.githubusercontent.com/simonszoft/LCGC/master/lcgc_i
 `wget "https://raw.githubusercontent.com/simonszoft/LCGC/master/lcgc_install.sh"`
 
 ### A válogatás az alábbi játékokat tartalmazza:
+
+__Asciijump__
+Kicsi és vicces ASCII síugrós játék.
+
+`apt-get install asciijump`
 
 __Bastet__
 Egyszerű tetrisz, amennyire fapad annyira jó is.
@@ -45,7 +50,7 @@ Szerintem jó móka. Ötletes és jó színes!
 
 `apt-get install greed`
 
-__Moonbuggy (Holdjáró)__
+__Moonbuggy__
 Egy igazi platform játék, ahol egy holdjárót irányítunk, a (space) gomb megnyomásával tud ugrani elkerülve így a hold kártereit,
 ezenkívül az (a) és (l) billentyűkkel tudjuk írtnai az ellent.
 
