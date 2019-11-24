@@ -1,5 +1,5 @@
 # LCGC
-## Simonszoft - Linux Console Games collection 
+## Simonszoft - Linux Console Games Collection (LCGC)
 
 ### Kollekció telepítése (Debian/Ubuntu)
 Megjegyzés: Érdemes kiadni előtte az `apt-get update` parancsot is a csomaglisták frissítéséhez!
