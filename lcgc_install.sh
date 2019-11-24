@@ -10,7 +10,7 @@ else
 	echo "APT source list update"
 	apt-get update
 	echo "Installing games"
-	apt-get install bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband
+	apt-get install asciijump bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband
 	
 	
 	if ! [ -x "$(command -v wget)" ]; then
