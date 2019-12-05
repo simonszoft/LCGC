@@ -2,6 +2,7 @@
 
 # Simonszoft - Linux Console Games collection
 # https://github.com/simonszoft/LCGC
+# version 1.0
 
 if [[ $EUID > 0 ]]; then
 	echo "Please run as root/sudo"
@@ -13,7 +14,7 @@ else
 	apt-get update
 	
 	echo "2. Installing games"
-	apt-get install asciijump bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband
+	apt-get install asciijump bastet bsdgames crawl greed libaa-bin moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband
 	
 	if ! [ -x "$(command -v wget)" ]; then
   		echo 'Error: wget is not installed.' >&2	
