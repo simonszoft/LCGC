@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Simonszoft - Linux Console Easter Egg - Emacs
+# Linux Console Easter Eggs (LCEE) - Emacs
+# Simonszoft - Linux Console Games collection
 # https://github.com/simonszoft/LCGC
 	
 if ! [ -x "$(command -v emacs)" ]; then
