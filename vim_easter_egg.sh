@@ -8,7 +8,10 @@ if ! [ -x "$(command -v vim)" ]; then
     echo 'Error: vim is not installed.' >&2	
     exit 1
 else
+    echo 1. easter egg
     vim --cmd help42
+    echo 2. easter egg
+    vim --cmd help!
 fi
 	
 
