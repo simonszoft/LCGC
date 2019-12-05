@@ -73,7 +73,7 @@ Igen ez az, egy Snake klón, a poén, hogy a dollárjelet kell megenni egy mozg�
 `apt-get install nsnake`
 
 __Pacman4Console__
-Pacman játék, kicsit kaótikus de meg leeht szokni a sárga nagy C betű a hősünk Pacman, az & jelek a szellemek.
+Pacman játék, kicsit kaotikus, de meg lehet szokni a sárga nagy C betű a hősünk Pacman, az & jelek a szellemek.
 Irányítás a szokássos kurzoros.
 
 `apt-get install pacman4console`
