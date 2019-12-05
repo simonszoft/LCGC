@@ -4,7 +4,7 @@
 ### Kollekció telepítése (Debian/Ubuntu)
 Megjegyzés: Érdemes kiadni előtte az `apt-get update` parancsot is a csomaglisták frissítéséhez!
 
-`sudo apt-get install asciijump bastet bsdgames crawl greed moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband`
+`sudo apt-get install asciijump bastet bsdgames crawl greed libaa-bin moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband`
 
 ### Kollekció telepítő script letöltése (Debian/Ubuntu)
 
@@ -49,6 +49,11 @@ Csak a számokon lehet mozogni (kurzor billentyűkkel) így könnyen elvághatju
 Szerintem jó móka. Ötletes és jó színes!
 
 `apt-get install greed`
+
+__Fire__
+Az aafire parancs kiadását követően lángba borul a terminál. Szép ASCII grafikus megvalósítás. Hiánypotló.
+
+`apt-get install libaa-bin`
 
 __Moonbuggy__
 Egy igazi platform játék, ahol egy holdjárót irányítunk, a (space) gomb megnyomásával tud ugrani elkerülve így a hold kártereit,
