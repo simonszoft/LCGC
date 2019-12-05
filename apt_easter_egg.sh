@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Linux Console Easter Eggs (LCEE) - Emacs
+# Linux Console Easter Eggs (LCEE) - APT
 # Simonszoft - Linux Console Games collection
 # https://github.com/simonszoft/LCGC
 
