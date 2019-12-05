@@ -93,7 +93,7 @@ ASCII kalandjáték, a karakterekből nehéz kivenni épp mi van előttünk de e
 
 `apt-get install zangband`
 
-## Simonszoft - Linux Console Easter Eggs (LCEE)
+### Linux Console Easter Eggs (LCEE)
 A számítástechnikában húsvéti tojásoknak (easter eggs) nevezzük az olyan üzeneteket, grafikákat, hanghatásokat vagy a program viselkedésének szokatlan változását, melyeket viccként vagy a program készítőinek felsorolásáért helyeztek el. Ezek akkor jelennek meg, amikor a felhasználó bizonyos nem dokumentált parancsot ad ki, egérkattintást, billentyűparancsot vagy egyéb hasonló cselekvést hajt végre. [Bővebben erről: https://hu.wikipedia.org/wiki/Easter_egg]
 
 __APT Easter Egg__
