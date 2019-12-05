@@ -84,7 +84,7 @@ Egy jó kis agytorna, ugyanazt tudja mint az alap hasonló játékok, amit kieme
 `apt-get install sudoku`
 
 __Terminal Train__
-Az sl parancs kiadására átrobog egy vonat a temrinálon (ezt elég sok helyre feltettem, jó látni amikor a kollégák elgépelik az ls parancsot milyen arcot vágnak... sokadjára is).
+Az sl parancs kiadására átrobog egy vonat a terminálon (ezt elég sok helyre feltettem, jó látni amikor a kollégák elgépelik az ls parancsot milyen arcot vágnak... sokadjára is).
 
 `apt-get install sl`
 
