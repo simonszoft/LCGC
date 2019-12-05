@@ -109,3 +109,10 @@ Az emacs az egyik legnépszerűbb szövegszerkesztő unix rendszereken és ebben
 Közvetlen link: https://raw.githubusercontent.com/simonszoft/LCGC/master/emacs_easter_egg.sh
 
 `wget "https://raw.githubusercontent.com/simonszoft/LCGC/master/emacs_easter_egg.sh"`
+
+__VIM Easter Egg__
+Az emacs az egyik legnépszerűbb szövegszerkesztő unix rendszereken és ebben is van egy elrejtett meglepetés un. húsvéti tojás (easter egg), az alábbi shellscript ezt hozza elő:
+
+Közvetlen link: https://raw.githubusercontent.com/simonszoft/LCGC/master/emacs_easter_egg.sh
+
+`wget "https://raw.githubusercontent.com/simonszoft/LCGC/master/emacs_easter_egg.sh"`
