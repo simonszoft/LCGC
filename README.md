@@ -92,3 +92,20 @@ __Zangband__
 ASCII kalandjáték, a karakterekből nehéz kivenni épp mi van előttünk de erre jó a képzelet! Elég nehéz játék csak gyakorlott kalandjátékosoknak!
 
 `apt-get install zangband`
+
+## Simonszoft - Linux Console Easter Eggs (LCEE)
+A számítástechnikában húsvéti tojásoknak (easter eggs) nevezzük az olyan üzeneteket, grafikákat, hanghatásokat vagy a program viselkedésének szokatlan változását, melyeket viccként vagy a program készítőinek felsorolásáért helyeztek el. Ezek akkor jelennek meg, amikor a felhasználó bizonyos nem dokumentált parancsot ad ki, egérkattintást, billentyűparancsot vagy egyéb hasonló cselekvést hajt végre. [Bővebben erről: https://hu.wikipedia.org/wiki/Easter_egg]
+
+__APT Easter Egg__
+Az Advanced Packaging Tool, vagy röviden APT egy ingyenes és nyílt forráskódú csomagkezelő szoftver Debian GNU/Linux rendszereken, a fejlesztők ebben is elrejtettek egy meglepetést un. húsvéti tojás (easter egg), az alábbi shellscript ezt hozza elő:
+
+Közvetlen link: https://raw.githubusercontent.com/simonszoft/LCGC/master/apt_easter_egg.sh
+
+`wget "https://raw.githubusercontent.com/simonszoft/LCGC/master/apt_easter_egg.sh"`
+
+__EMACS Easter Egg__
+Az emacs az egyik legnépszerűbb szövegszerkesztő unix rendszereken és ebben is van egy elrejtett meglepetés un. húsvéti tojás (easter egg), az alábbi shellscript ezt hozza elő:
+
+Közvetlen link: https://raw.githubusercontent.com/simonszoft/LCGC/master/emacs_easter_egg.sh
+
+`wget "https://raw.githubusercontent.com/simonszoft/LCGC/master/emacs_easter_egg.sh"`
