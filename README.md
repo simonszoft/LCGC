@@ -4,7 +4,7 @@
 ### Kollekció telepítése (Debian/Ubuntu)
 Megjegyzés: Érdemes kiadni előtte az `apt-get update` parancsot is a csomaglisták frissítéséhez!
 
-`sudo apt-get install asciijump bastet bsdgames crawl greed libaa-bin moon-buggy nettoe ninvaders nsnake pacman4console sl sudoku zangband`
+`sudo apt-get install asciijump bastet bsdgames crawl greed libaa-bin moon-buggy nethack-console nettoe ninvaders nsnake pacman4console sl sudoku zangband`
 
 ### Kollekció telepítő script letöltése (Debian/Ubuntu)
 
@@ -60,6 +60,11 @@ Egy igazi platform játék, ahol egy holdjárót irányítunk, a (space) gomb me
 ezenkívül az (a) és (l) billentyűkkel tudjuk írtnai az ellent.
 
 `apt-get install moon-buggy`
+
+__Nethack__
+A Nethack egy D&D (Dungeons and dragons) ihlette ASCIII grafikájú játék. A börtön részleteit kell felfedeznünk, úgy hogy közben életben maradunk.
+
+`apt-get install nethack-console`
 
 __Nettoe__
 Amőba játék avagy "Tic-Tac-Toe", akár egymás ellen akár a gép ellen is játszhatunk!
