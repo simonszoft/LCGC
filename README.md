@@ -4,7 +4,7 @@
 ### Kollekció telepítése (Debian/Ubuntu)
 Megjegyzés: Érdemes kiadni előtte az `apt-get update` parancsot is a csomaglisták frissítéséhez!
 
-`sudo apt-get install asciijump bastet bsdgames crawl greed libaa-bin moon-buggy nethack-console nettoe ninvaders nsnake pacman4console sl sudoku zangband`
+`sudo apt-get install asciijump bastet bsdgames bombardier crawl empire greed libaa-bin moon-buggy nethack-console nettoe ninvaders nsnake pacman4console sl sudoku zangband`
 
 ### Kollekció telepítő script letöltése (Debian/Ubuntu)
 
@@ -27,9 +27,15 @@ Nekem a hosszú egyenes elemek bugosan mozogtak...
 
 `apt-get install bastet`
 
+__Bombardier__
+Ez a játék eredetileg Blitz16 névne jelent meg még Commodore 16/Plus 4 gépekre, Simon Taylor fejlesztő alkotása. Feladatunk a város lebombázása a legmagasabb épülettel kezdve, hogy a folyamatosan süllyedő bombázónk ne ütközzön neki.
+
+`apt-get install bombardier`
+
 __BSD GAMES__
 Ez egy klasszikus szöveges játék válogatás ami sok játékot tartalmaz (Részletes lista: http://wiki.linuxquestions.org/wiki/BSD_games)
 Kedvenceim:
+- atc (Air Traffic Controller, légi irányításos játék)
 - worm (Snake)
 - gomoku (Amőba)
 - hangman (Aksztófa, lehet saját szó listát is megadni neki)
@@ -41,7 +47,13 @@ Kedvenceim:
 __Crawl__
 Másik ASCII kalandjáték a Crawl, vagyis portyázás. Dungeon azaz földalatti kazamatákban portyázhatunk.
 
-apt-get install crawl
+`apt-get install crawl`
+
+__Empire__
+Egy igazi valód idejű stratégiai játék. A játékkal akár online másokkal is játszhatunk. A felülete természetesen ASCII grafikus.
+Az elsőre puritán felület ne tántorítson el senkit, itt találtok egy jó kis útmutatót hozzá: http://www.wolfpackempire.com/infopages/Guide.html
+
+`apt-get install empire`
 
 __Greed__
 Egyszerre tron és snake, a feladat minnél több számot megenni a következő kukacjelig.
