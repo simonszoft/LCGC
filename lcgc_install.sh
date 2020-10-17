@@ -2,7 +2,7 @@
 
 # Simonszoft - Linux Console Games collection
 # https://github.com/simonszoft/LCGC
-# version 1.0
+# version 1.1
 
 if [[ $EUID > 0 ]]; then
 	echo "Please run as root/sudo"
