@@ -14,7 +14,7 @@ else
 	apt-get update
 	
 	echo "2. Installing games"
-	apt-get install asciijump bastet bsdgames crawl greed libaa-bin moon-buggy nethack-console nettoe ninvaders nsnake pacman4console sl sudoku zangband 
+	apt-get install asciijump bastet bsdgames bombardier crawl empire greed libaa-bin moon-buggy nethack-console nettoe ninvaders nsnake pacman4console sl sudoku zangband
 	
 	if ! [ -x "$(command -v wget)" ]; then
   		echo 'Error: wget is not installed.' >&2	
